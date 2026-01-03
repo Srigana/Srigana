@@ -1,5 +1,26 @@
-<h1 align="center">Hi 👋, I'm Srigana</h1>
-<h3 align="center">MSCS @ VCU • Cloud & DevOps • I break systems so I can automate fixing them</h3>
+<h1 align="center">
+  Hiiii 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+       width="35"
+       alt="wave" /> 
+  , I'm Srigana
+</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"
+       alt="girl waving"
+       width="120" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+%7C+MSCS+%40+VCU;Terraform+%2B+Grafana+in+progress...;AWS+%7C+Docker+%7C+Jenkins+%7C+Kubernetes" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes" />
+</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=srigana&label=Profile%20views&color=0e75b6&style=flat" alt="srigana" />
@@ -13,7 +34,7 @@
 
 - 🤝 I’m looking for help with <strong>DevOps</strong>
 
-- 👨‍💻 All of my projects are available at <a href="https://srigana-portfolio.vercel.app" target="_blank">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://srigana-portfolio.vercel.app" target="_blank">My Portfolio</a>
 
 - 📝 I occasionally write articles on <a href="https://medium.com/@srigana2003" target="_blank">Medium</a>
 
@@ -121,3 +142,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
   </a>
 </p>
+
+
+---
+
+
+<a href="https://buymeacoffee.com/srigana" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       alt="Buy Me A Coffee"
+       style="height: 45px; width: 162px;" />
+</a>
+
