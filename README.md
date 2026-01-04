@@ -26,130 +26,45 @@
   <img src="https://komarev.com/ghpvc/?username=srigana&label=Profile%20views&color=0e75b6&style=flat" alt="srigana" />
 </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/Srigana/AWS-Cloud-Observability-Stack-" target="_blank">AWS Cloud Observability Stack</a>
-
-- 🌱 I’m currently learning <strong>Terraform and Grafana</strong>
-
-- 👯 I’m looking to collaborate on <strong>Cloud & DevOps Native Projects</strong>
-
-- 🤝 I’m looking for help with <strong>DevOps</strong>
-
-- 👨‍💻 All of my projects are available at <a href="https://srigana-portfolio.vercel.app" target="_blank">My Portfolio</a>
-
-- 📝 I occasionally write articles on <a href="https://medium.com/@srigana2003" target="_blank">Medium</a>
-
-- 💬 Ask me about <strong>AWS, Docker, Jenkins, Kubernetes</strong>
-
-- 📫 Reach me at <strong>srigana2003@gmail.com</strong>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/srigana-pulikantham/" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40" />
-  </a>
-
-  <!-- Medium -->
-  <a href="https://medium.com/@srigana2003" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="Medium"
-      height="30"
-      width="40" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:srigana2003@gmail.com">
-    <img align="center"
-      src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
-      alt="Gmail"
-      height="30"
-      width="40" />
-  </a>
+<p align="center">
+  ☁️ Cloud & DevOps Enthusiast &nbsp;|&nbsp; 💻 AWS • Kubernetes • CI/CD &nbsp;|&nbsp; 📍 Richmond, Virginia, USA
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-  </a>
-</p>
-
+| About Me | 🔭 What I’m Working On |
+| :--- | :--- |
+| I’m learning **Cloud and DevOps by building real systems**, not by memorizing theory. <br><br> I focus on infrastructure, automation, and observability — the parts that actually break in production. <br><br> I work on hands-on projects involving **AWS, Docker, Kubernetes, Terraform, CI/CD pipelines, and monitoring stacks**. <br><br> My goal is to become a **reliable DevOps Engineer** who can design, deploy, and maintain cloud-native systems that scale and stay observable. <br><br> If you’re interested in DevOps or cloud, hope you find something useful here. | **Currently working on:** AWS Cloud Observability Stack <br><br>  **Currently learning:** Terraform & Grafana <br><br>  **Open to collaborate on:** Cloud-native & DevOps projects <br><br>  **Looking for:** Strong DevOps collaborators and feedback <br><br>  **Projects:** Available on my portfolio <br><br>  **Ask me about:** AWS, Docker, Jenkins, Kubernetes |
 
 ---
 
+## 🌐 Portfolio
 
-<a href="https://buymeacoffee.com/srigana" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-       alt="Buy Me A Coffee"
-       style="height: 45px; width: 162px;" />
-</a>
+🔗 **Visit my portfolio:**  
+👉 https://srigana-portfolio.vercel.app/
+
+---
+
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srigana2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srigana-pulikantham)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srigana)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srigana)
+
+---
+
+<h3 align="center">Thanks for visiting!</h3>
+
+
+
+<p align="center">
+  <a href="https://buymeacoffee.com/srigana" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         alt="Buy Me A Coffee"
+         height="45"
+         width="162" />
+  </a>
+</p>
+
 
