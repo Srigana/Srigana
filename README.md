@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+%7C+MSCS+%40+VCU;Terraform+%2B+Grafana+in+progress...;AWS+%7C+Docker+%7C+Jenkins+%7C+Kubernetes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+%7C+MSCS+%40+VCU;Learnig+Prometheus+%2B+Grafana;AWS+%7C+Docker+%7C+Jenkins+%7C+Kubernetes" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
